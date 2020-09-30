@@ -5,3 +5,6 @@ html, body {
 canvas{
   border: 2px solid black;
 }
+.root{
+  filter = invert(100%)
+}
